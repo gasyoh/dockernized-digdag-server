@@ -1,5 +1,7 @@
 FROM java:8-alpine
 
+LABEL  maintainer "gasyoh <gasyoh@gmail.com>"
+
 ENV DIGDAG_VERSION=0.9.31
 
 RUN apk add --no-cache curl && \
