@@ -1,5 +1,7 @@
 # dockernized-digdag-server
 
+ORIGINAL repo is [here](https://github.com/myui/dockernized-digdag-server)
+
 Dockerfile to run [digdag-server](https://github.com/treasure-data/digdag) on Amazon ECS.
 
 The dockerfile is based on one in [this repository](https://github.com/IntimateMerger/dockerfile-digdag-server).
